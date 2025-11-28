@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ICT Trading Dashboard",
+  "description": "A trading web application for analyzing markets using Inner Circle Trader (ICT) concepts. It features daily bias analysis, chart overlays for key ICT patterns like Fair Value Gaps (FVGs) and trading sessions (Kill Zones), and uses free, public APIs for real-time cryptocurrency data without requiring user login.",
+  "requestFramePermissions": []
+}
